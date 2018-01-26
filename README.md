@@ -1,5 +1,12 @@
 # Jo Sprague
 
+![high empathy](https://img.shields.io/badge/empathy-high-brightgreen.svg?style=flat-square)
+![diverse perspective](https://img.shields.io/badge/perspective-diverse-brightgreen.svg?style=flat-square)
+![contagious passion](https://img.shields.io/badge/passion-contagious-brightgreen.svg?style=flat-square)
+![constant learner](https://img.shields.io/badge/learning-constantly-brightgreen.svg?style=flat-square)
+![open communication](https://img.shields.io/badge/communication-open-brightgreen.svg?style=flat-square)
+![highly productive](https://img.shields.io/badge/productivity-high-brightgreen.svg?style=flat-square)
+
 > Senior software engineer, constant learner, and people-person excited to work on anything that promotes my core values; liberty, empathy, justice, love, art, and nature.
 
 ## Relevant Experience
