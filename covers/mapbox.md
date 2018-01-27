@@ -6,7 +6,7 @@ I'm interested in joining your team as a [Senior Frontend Engineer](https://boar
 
 ## Why I Love Mapbox
 
-<img src="mapbox-tree-cuba.jpg" width="400" style="float: right;"/>
+<img src="mapbox-tree-cuba.jpg" width="400" align="right"/>
 
 I first heard about Mapbox from some friends in Cuba's open source mapping community when I was visiting an the Historian's Office in Old Havana and saw a Mapbox sticker on their Christmas tree. **I love the fact that Mapbox is creating open source software that's useful for my friends around the world.**
 
