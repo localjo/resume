@@ -18,16 +18,16 @@ So I decided to check out your careers page, and I *loved* what I saw! **The cul
 
 The reasons I'm a good fit for Mapbox and the Senior Frontend role;
 
-- I have **8 years of experience** with frontend JavaScript frameworks including **React** and **Redux**
-- I love collaboration and feedback, and I'm used to doing those things in the open on GitHub
-- I believe **open communication** is essential
-- I'm great at expressing ideas with grace and clarity as a result of my background in communication and my **high empathy** for others
-- I'm a **self-motivated**, constant learner and I'm always asking questions to increase my understanding
-- I love to give 110% to the things I do
-- I'm passionate about constant improvement for myself and my team
-_ I love teaching and mentoring others
-- I love questioning assumptions and constantly pushing to improve a product
-- I prioritize listening and getting perspectives from people who see things differently than I do
+- I have **8 years of experience** with frontend JavaScript frameworks including **React** and **Redux**.
+- I love collaboration and feedback, and I'm used to doing those things in the open on GitHub.
+- I believe **open communication** is essential.
+- I'm great at expressing ideas with grace and clarity as a result of my background in communication and my **high empathy** for others.
+- I'm a **self-motivated**, constant learner and I'm always asking questions to increase my understanding.
+- I love to give 110% to the things I do.
+- I'm passionate about constant improvement for myself and my team.
+_ I love teaching and mentoring others.
+- I love questioning assumptions and constantly pushing to improve a product.
+- I prioritize listening and getting perspectives from people who see things differently than I do.
 
 ## Let's Talk!
 
