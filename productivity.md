@@ -1,0 +1,5 @@
+# Highly Productive
+
+I am a highly productive worker. At times, I've felt that I'm the "10x developer" on a team, but I don't like to use that term because it implies that working in isolation is the most productive, but I'm more concerned about the productivity of the team as a whole. My own output is not the only factor in my productivity. It is also important to encourage and enable other members of a team to be more productive through mentorship, support and creating tools that make everyone's job more efficient.
+
+That being said, my own output is usually very high. My productivity can be seen in [my portfolio](http://josiahsprague.com), the contributions graph on [my GitHub profile](https://github.com/localjo), [my GitHub repos](https://github.com/localjo?tab=repositories), [the list of repositories I've contributed to](contributions.png) and most recently in [my contributions at NASA](https://github.com/nasa-gibs/worldview/graphs/contributors?from=2017-07-29&to=2018-01-27&type=c).
