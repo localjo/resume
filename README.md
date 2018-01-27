@@ -48,10 +48,9 @@ _Delta Media Group (2010 to 2011)_
 ## Education
 
 ### Bachelor’s Degree: Mass Media Communication, TV/Radio
-### Minor: Computer Science, International Business, Graphic Design and Animation
 _The University of Akron (2006-2010)_
 
-Managed the web presence of Associated Student Government, the Buchtelite (university newspaper), 88.1 WZIP (university run public radio station), and ZTV (university TV station).
+Minor with studies in Computer Science, International Business, Graphic Design and Animation. Managed the web presence of Associated Student Government, the Buchtelite (university newspaper), 88.1 WZIP (university run public radio station), and ZTV (university TV station).
 
 ## Relevant Skills
 
