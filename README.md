@@ -59,4 +59,4 @@ JavaScript, React, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, UX/UI, A
 
 ## Contact
 
-<josiah.sprague@gmail.com> || +1-330-962-3520 || <http://josiahsprague.com>
+<josiah.sprague@gmail.com> • +1-330-962-3520 • <http://josiahsprague.com>
