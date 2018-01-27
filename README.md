@@ -14,43 +14,43 @@
 ### Application Developer
 _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017-Present)_
 
-- Working on NASA Worldview--an app for browsing full-resolution, global, near real-time satellite imagery.
+- Working on [NASA Worldview](https://github.com/nasa-gibs/worldview)—an app for browsing full-resolution, global, near real-time satellite imagery.
 - Improving team engineering practices; unit & integration  testing, continuous deployment, code reviews, etc.
 - Updating an aging code base to use ES6 modules, optimizing performance, and reducing technical debt.
 - Shipping new major features often; natural events tracker, imagery search, imagery data handlers, etc.
  
  ### Full Stack Engineer
- _Sparkart Group, Inc (June 2014 to June 2017)_
+ _[Sparkart Group, Inc](http://www.sparkart.com/) (June 2014 to June 2017)_
 
-- Created software solutions for clients like Bon Jovi, Janet Jackson, Jason Aldean, Carrie Underwood, The Immunity Project, Space Tango, UFC, startups, nonprofits and more.
+- Created software solutions for clients like [Bon Jovi](http://bonjovi.com/), [Janet Jackson](https://www.janetjackson.com/), [Jason Aldean](https://www.jasonaldean.com/), [Carrie Underwood](https://www.carrieunderwood.fm/), [The Immunity Project](http://www.immunityproject.org/), [Space Tango](http://www.spacetango.com), [UFC](https://www.ufcfightclub.com/), startups, nonprofits and more.
 - Streamlined the workflow of my team by writing hundreds of build scripts, command line tools, chatbots and more for the Front End Developers on the team.
-- Introduced React to our team, which we used to build an app for streaming live experiment data from ISS, and a web crawler for lawyers to track IP infringements.
+- Introduced React to our team, which we used to build an app for streaming live [experiment data from ISS](http://www.spacetango.com/), and a web crawler for lawyers to track IP infringements.
   
 ### Volunteer Developer and Director of Media
-_Doulos Discovery School (July 2012 to June 2014)_
+_[Doulos Discovery School](http://www.jarabacoard.com/es/servicios/item/doulos-discovery-school) (July 2012 to June 2014)_
 
 - Collaborated with administrators to coordinate a bilingual media strategy to bring thousands of dollars of donations into the organization using web, photo, video and print media.
 - Used web technologies to communicate with stakeholders in multiple countries by designing and developing a responsive website with a CMS, administrating Linode servers, and managing Google Apps for staff.
 - Designed curriculum for and taught a high school digital communication class.
   
 ### Front End Engineer
-_OuterBox Solutions (August 2011 to July 2012)_
+_[OuterBox](https://www.outerboxdesign.com/) (August 2011 to July 2012)_
 
 - Introduced responsive web development and modular CSS to my team and dramatically improved the accessibility and performance of clients' websites.
 - Pioneered an SEO strategy using Microdata and Schema.org that transformed the company's approach to SEO.
   
 ### Web Developer
-_NAS Recruitment Communications (2011)_
+_[NAS Recruitment Communications](http://www.nasrecruitment.com/) (2011)_
 
 ### Web Developer
-_Delta Media Group (2010 to 2011)_
+_[Delta Media Group](https://www.deltamediagroup.com/) (2010 to 2011)_
 
 ## Education
 
 ### Bachelor’s Degree: Mass Media Communication, TV/Radio
-_The University of Akron (2006-2010)_
+_[The University of Akron](http://www.uakron.edu/) (2006-2010)_
 
-Minor with studies in Computer Science, International Business, Graphic Design and Animation. Managed the web presence of Associated Student Government, the Buchtelite (university newspaper), 88.1 WZIP (university run public radio station), and ZTV (university TV station).
+Minor with studies in Computer Science, International Business, Graphic Design and Animation. Managed the web presence of [Associated Student Government](http://uakronstudentlife.orgsync.com/org/usg/), [the Buchtelite](https://buchtelite.com/), [88.1 WZIP](http://www.wzip.fm/), and [ZTV](https://ztv.uakron.edu/).
 
 ## Relevant Skills
 
