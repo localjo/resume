@@ -56,3 +56,7 @@ Managed the web presence of Associated Student Government, the Buchtelite (unive
 ## Relevant Skills
 
 JavaScript, React, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, UX/UI, Accessibility, Writing, Marketing, SEO, Sales, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing, Travel Experience
+
+## Contact
+
+<josiah.sprague@gmail.com> || +1-330-962-3520 || <http://josiahsprague.com>
