@@ -15,8 +15,7 @@ JavaScript, React, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, UX/UI, A
 
 ## Relevant Experience
 
-### Application Developer
-_[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017-Present)_
+### Application Developer <small>_[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017-Present)_</small>
 
 - Developing [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing full-resolution, global, near real-time satellite imagery built with JavaScript and Python.
 - Improving team engineering practices; unit & integration  testing, continuous deployment, code reviews, etc.
