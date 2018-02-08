@@ -1,0 +1,40 @@
+/* Apply this style to the GitHub page using Stylebot and then print with Chrome */
+
+header.Header.f5, a.anchor, .pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav, .col-11.text-gray-dark.mr-2, .list-topics-container.f6.mt-1, .btn.btn-sm.float-right.js-details-target.js-edit-repo-meta-button.js-edit-repo-meta-toggle, .repository-meta.mb-0.js-repo-meta-edit.js-details-container, .overall-summary, .file-navigation.in-mid-page, .commit-tease.js-details-container.Details, .file-wrap, .footer, .repository-topics-container {
+    display: none;
+}
+
+article.markdown-body.entry-content {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+article.markdown-body.entry-content * {
+    line-height: 1.2;
+}
+
+article.markdown-body.entry-content p em {
+    margin-bottom: 5px;
+}
+
+article.markdown-body.entry-content ul {
+    margin-bottom: 21px;
+}
+
+article.markdown-body.entry-content h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+article.markdown-body.entry-content h2 {
+    padding-bottom: 2px;
+}
+
+.container {
+    width: 100%;
+}
+
+.boxed-group {
+    margin: 0 10px 0 0;
+}
+
