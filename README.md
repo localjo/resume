@@ -1,9 +1,5 @@
 # Jo Sprague
 
-```
-/(Senior|Lead) (Full *-*Stack|Front *-*End|Software|JavaScript) (Engineer|Developer)/gi
-```
-
 [![high empathy](https://img.shields.io/badge/empathy-high-brightgreen.svg?style=flat-square)](empathy.md)
 [![diverse perspective](https://img.shields.io/badge/perspective-diverse-brightgreen.svg?style=flat-square)](perspective.md)
 [![contagious passion](https://img.shields.io/badge/passion-contagious-brightgreen.svg?style=flat-square)](passion.md)
@@ -13,9 +9,11 @@
 
 > Senior software engineer looking for high impact opportunities to make the world a better place!
 
-## Core Skills
+## What I Do
 
-JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, UX/UI, Accessibility, Writing, Marketing, SEO, Sales, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing, Travel Experience
+I'm looking for work as a `/(Senior|Lead) (Full *-*Stack|Front *-*End|Software|JavaScript) (Engineer|Developer)/gi`.
+
+My skills include JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, UX/UI, Accessibility, Unit Testing, Documentation, Sales, Public Speaking, Spanish, Empathy and more.
 
 ## Relevant Experience
 
