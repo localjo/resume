@@ -11,9 +11,13 @@
 
 ## What I Do
 
-I'm looking for work as a `/(Senior|Lead) (Full *-*Stack|Front *-*End|Software|JavaScript) (Engineer|Developer)/gi`.
-
 My skills include JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, UX/UI, Accessibility, Unit Testing, Documentation, Sales, Public Speaking, Spanish, Empathy and more.
+
+I'm open to jobs that match the following Regex:
+
+```
+/(Senior|Lead) (Full *-*Stack|Front *-*End|Software|JavaScript|Sales) (Engineer|Developer)/gi
+```
 
 ## Relevant Experience
 
