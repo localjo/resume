@@ -11,7 +11,7 @@
 
 ## Core Skills
 
-JavaScript, React, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, UX/UI, Accessibility, Writing, Marketing, SEO, Sales, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing, Travel Experience
+JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, UX/UI, Accessibility, Writing, Marketing, SEO, Sales, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing, Travel Experience
 
 ## Relevant Experience
 
