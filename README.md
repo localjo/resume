@@ -7,7 +7,7 @@
 [![open communication](https://img.shields.io/badge/communication-open-brightgreen.svg?style=flat-square)](communication.md)
 [![highly productive](https://img.shields.io/badge/productivity-high-brightgreen.svg?style=flat-square)](productivity.md)
 
-> Senior software engineer, constant learner, and people-person excited to work on anything that promotes my core values; liberty, empathy, justice, love, art, and nature.
+> Senior software engineer looking for high impact opportunities to make the world a better place!
 
 ## Core Skills
 
