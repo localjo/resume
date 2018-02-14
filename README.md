@@ -18,10 +18,10 @@ JavaScript, React, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, UX/UI, A
 ### Application Developer
 _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017 to February 2018)_
 
-- Developing [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing full-resolution, global, near real-time satellite imagery built with JavaScript and Python.
-- Improving team engineering practices; unit & integration testing, continuous deployment, code reviews, etc.
-- Updating an aging code base to use ES6 modules, optimizing performance, and reducing technical debt.
-- Shipping new major features often; natural events tracker, imagery search, imagery data handlers, etc.
+- Front End Engineer for [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing full-resolution, global, near real-time satellite imagery built with JavaScript and Python.
+- Improved team engineering practices; unit & integration testing, continuous deployment, code reviews, etc.
+- Updated an aging code base to use ES6 modules, optimizing performance, and reducing technical debt.
+- Shipped new features and improvements; natural events tracker, imagery search, imagery data handlers, etc.
  
  ### Full Stack Engineer (Remote)
  _[Sparkart Group, Inc [Contractor]](http://www.sparkart.com/) (June 2014 to June 2017)_
