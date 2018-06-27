@@ -11,16 +11,16 @@
 
 ## Core Skills
 
-JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, UX/UI, Accessibility, Writing, Marketing, SEO, Sales, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing, Travel Experience
+JavaScript, React, Redux, Node.js, UNIX, Bash, PHP, WordPress, git, HTML, CSS, Webpack, Babel, Grunt, gulp, Python, MySQL, GraphQL, UX/UI, Accessibility, Writing, Marketing, SEO, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Organizing
 
 ## Relevant Experience
 
 ### Application Developer
 _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017 to February 2018)_
 
-- Front End Engineer for [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing full-resolution, global, near real-time satellite imagery built with JavaScript and Python.
+- Full Stack Engineer for [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing full-resolution, global, near real-time satellite imagery built with JavaScript and Python.
 - Improved team engineering practices; unit & integration testing, continuous deployment, code reviews, etc.
-- Updated an aging code base to use ES6 modules, optimizing performance, and reducing technical debt.
+- Updated an aging code base to use ES6 modules, optimized performance, and reduced technical debt.
 - Shipped new features and improvements; natural events tracker, imagery search, imagery data handlers, etc.
  
  ### Full Stack Engineer (Remote)
@@ -62,4 +62,4 @@ Minor with studies in Computer Science, International Business, Graphic Design a
 
 ## Contact
 
-<josiah.sprague@gmail.com> • +1-330-962-3520 • <http://josiahsprague.com>
+<josiah.sprague@gmail.com> • +1-330-962-3520 • <https://josiahsprague.com> • `npx localjo`
