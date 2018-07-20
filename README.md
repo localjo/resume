@@ -33,12 +33,12 @@ _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www
 - Increased the productivity of Front End Developers on the team by creating build scripts, command line interfaces, chat bots and other tools to support their work.
 - Improved team collaboration by introducing React, Redux and functional programming enabling everyone to work with the same design patterns and paradigms.
 - Used React/d3 to build an app for streaming live [experiment data from ISS](http://www.spacetango.com/), and React/AWS Lambda to build a web crawler for lawyers to track IP infringements.
-- Saved the company thousands of dollars a month by migrating an app platform used for clients like [Bon Jovi](http://bonjovi.com/), [Janet Jackson](https://www.janetjackson.com/), [Jason Aldean](https://www.jasonaldean.com/), [Carrie Underwood](https://www.carrieunderwood.fm/), [The Immunity Project](http://www.immunityproject.org/), and [Space Tango](http://www.spacetango.com), [UFC](https://www.ufcfightclub.com/) from a Ruby monolith to Node.js microservices.
+- Saved the company thousands of dollars a month by migrating an app platform used for clients like [Bon Jovi](http://bonjovi.com/), [Janet Jackson](https://www.janetjackson.com/), [Jason Aldean](https://www.jasonaldean.com/), [Carrie Underwood](https://www.carrieunderwood.fm/), [The Immunity Project](http://www.immunityproject.org/), and [Space Tango](http://www.spacetango.com), [UFC](https://www.ufcfightclub.com/) from a Ruby monolith to Node.js micro-services.
   
 ### Director of Media and Front End Engineer (Volunteer)
 _[Doulos Discovery School](http://www.jarabacoard.com/es/servicios/item/doulos-discovery-school) (July 2012 to June 2014)_
 
-- Enabled staff, students and parents in multiple countries to communicate more effecively by designing and developing a bilingual responsive website with a CMS, administrating Linode servers, and managing Google Apps.
+- Enabled staff, students and parents in multiple countries to communicate more effectively by designing and developing a bilingual responsive website with a CMS, administrating Linode servers, and managing Google Apps.
 - Helped the organization raise hundreds of thousands of dollars by creating a bilingual media strategy to bring in donations using web, photo, video and print media.
 - Designed curriculum for and taught a high school digital communication class and programming club.
   
