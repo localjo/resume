@@ -24,7 +24,7 @@ _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www
 - Developer for [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing satellite imagery built with JavaScript and Python.
 - Saved our team thousands of dollars in engineers' time every week by replacing a manual QA process that took weeks with automated browser tests that ran in minutes, enabling us to iterate and ship new features quickly.
 - Reduced deployment time from over an hour to <5 minutes, allowing us to rapidly release new features and bug fixes.
-- Helped our team raise the bar for engineering practices and quality standards by implementing coding standards, thourough code reviews and a code of conduct.
+- Helped our team raise the bar for engineering practices and quality standards by implementing coding standards, thorough code reviews and a code of conduct.
 - Created a better product for our users by shipping new features, optimizing performance, reducing technical debt, and migrating an aging code base to ES6.
  
 ### Full Stack Engineer (Remote)
