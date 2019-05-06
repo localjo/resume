@@ -17,7 +17,7 @@ JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Do
 
 ### Senior Software Engineer (Remote)
 _[Mokriya](https://mokriya.com/) (July 2018 to Present)_
-- Improved front end performance by significantly reducing app bundle size, fixing memory leaks, and fixing bugs.
+- Improved front end performance by fixing memory leaks, fixing bugs, and significantly reducing app bundle size.
 - Streamlined team's engineering process by updating quality control tools and reducing technical debt.
 - Enabled team to iterate faster by increasing unit test coverage and improving continuous integration process.
 - Helped our team ship new client-facing features ahead of schedule.
