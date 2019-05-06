@@ -11,12 +11,16 @@
 
 ## Core Skills
 
-JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, SEO, Marketing, Writing, Public Speaking, Spanish, Empathy, Leadership, Event Planning, Community Organizing
+JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, SEO, Marketing, Technical Writing, Public Speaking, Empathy, Leadership
 
 ## Relevant Experience
 
 ### Senior Software Engineer (Remote)
 _[Mokriya](https://mokriya.com/) (July 2018 to Present)_
+- Improved front end performance by significantly reducing app bundle size, fixing memory leaks, and fixing bugs.
+- Streamlined team's engineering process by updating quality control tools and reducing technical debt.
+- Enabled team to iterate faster by increasing unit test coverage and improving continuous integration process.
+- Helped our team ship new client-facing features ahead of schedule.
 
 ### Full Stack Engineer
 _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www.nasa.gov/goddard) (July 2017 to February 2018)_
@@ -24,14 +28,13 @@ _[NASA [Goddard Space Flight Center, GIBS/Worldview, ASRC Contract]](https://www
 - Developer for [NASA Worldview](https://github.com/nasa-gibs/worldview)—a web app for browsing satellite imagery built with JavaScript and Python.
 - Saved our team thousands of dollars in engineers' time every week by replacing a manual QA process that took weeks with automated browser tests that ran in minutes, enabling us to iterate and ship new features quickly.
 - Reduced deployment time from over an hour to <5 minutes, allowing us to rapidly release new features and bug fixes.
-- Helped our team raise the bar for engineering practices and quality standards by implementing coding standards, thorough code reviews and a code of conduct.
+- Raised the bar for engineering practices and quality standards by implementing coding standards and code reviews.
 - Created a better product for our users by shipping new features, optimizing performance, reducing technical debt, and migrating an aging code base to ES6.
  
 ### Full Stack Engineer (Remote)
  _[Sparkart Group, Inc [Contractor]](http://www.sparkart.com/) (June 2014 to June 2017)_
 
 - Increased the productivity of Front End Developers on the team by creating build scripts, command line interfaces, chat bots and other tools to support their work.
-- Improved team collaboration by introducing React, Redux and functional programming enabling everyone to work with the same design patterns and paradigms.
 - Used React/d3 to build an app for streaming live [experiment data from ISS](http://www.spacetango.com/), and React/AWS Lambda to build a web crawler for lawyers to track IP infringements.
 - Saved the company thousands of dollars a month by migrating an app platform used for clients like [Bon Jovi](http://bonjovi.com/), [Janet Jackson](https://www.janetjackson.com/), [Jason Aldean](https://www.jasonaldean.com/), [Carrie Underwood](https://www.carrieunderwood.fm/), [The Immunity Project](http://www.immunityproject.org/), and [Space Tango](http://www.spacetango.com), [UFC](https://www.ufcfightclub.com/) from a Ruby monolith to Node.js micro-services.
   
