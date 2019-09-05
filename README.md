@@ -66,4 +66,4 @@ Minor with studies in Computer Science, International Business, Graphic Design a
 
 ## Contact
 
-<josiah.sprague@gmail.com> • +1-330-962-3520 • <https://josiahsprague.com> • `npx localjo`
+<josiah.sprague@gmail.com> • +1-330-962-3520 • <https://iamlocaljo.com> • `npx localjo`
