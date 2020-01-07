@@ -7,4 +7,4 @@ I've been incredibly fortunate and privileged in my life. The primary way I dive
 - Reading [a lot of books](https://www.goodreads.com/review/list/16700342-jo?shelf=read&sort=avg_rating) expose myself to diverse perspectives about science, spirituality, history, politics, gender, sexuality, language, psychology and more
 - Living in the Dominican Republic for 2 years and learning how to be happy with a simpler lifestyle
 - Living with environmental activists who taught me the value of a plant-based lifestyle
-- Traveling to 26 countries (and counting) and engaging with local people to learn about their languages, cultures, politics, spirituality, sexuality, cuisine, values, experiences and perspectives
+- Traveling to 36 countries (and counting) and engaging with local people to learn about their languages, cultures, politics, spirituality, sexuality, cuisine, values, experiences and perspectives
