@@ -15,6 +15,13 @@ JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Do
 
 ## Relevant Experience
 
+### Full Stack Software Engineering Consultant
+_[Consultant](https://iamlocaljo.com/) (July 2014 to Present)_
+- I often work on programming projects I'm passionate about and that have a positive impact on the world.
+- Rebuilt a humanitarian mapping app for the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
+- Contributed to several [open source projects](https://github.com/localjo).
+- Wrote [custom plugins for WordPress](https://wordpress.org/plugins/quotable/) and [Discourse](https://www.discourse.org/).
+
 ### Senior Software Engineer (Remote)
 _[Mokriya](https://mokriya.com/) (July 2018 to July 2019)_
 - Improved front end performance by fixing memory leaks, fixing bugs, and significantly reducing app bundle size.
@@ -46,13 +53,9 @@ _[Doulos Discovery School](http://www.jarabacoard.com/es/servicios/item/doulos-d
 - Designed curriculum for and taught a high school digital communication class and programming club.
   
 ### Front End Engineer
+
 _[OuterBox](https://www.outerboxdesign.com/) (August 2011 to July 2012)_
 
-- Sparked a huge growth in sales by introducing the company to responsive web development.
-- Cut development times for new websites in half by using modular CSS and other tools.
-- Dramatically increased clients' SEO results using Microdata and Schema.org.
-  
-### Web Developer
 _[NAS Recruitment Communications](http://www.nasrecruitment.com/) (2011)_
 
 _[Delta Media Group](https://www.deltamediagroup.com/) (2010 to 2011)_
