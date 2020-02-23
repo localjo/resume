@@ -11,7 +11,7 @@
 
 ## Core Skills
 
-JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, SEO, Marketing, Technical Writing, Public Speaking, Empathy, Leadership
+JavaScript, TypeScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, SEO, Marketing, Technical Writing, Public Speaking, Empathy, Leadership
 
 ## Relevant Experience
 
@@ -19,7 +19,7 @@ JavaScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Do
 _[Consultant](https://iamlocaljo.com/) (July 2014 to Present)_
 - I often work on programming projects I'm passionate about and that have a positive impact on the world.
 - Rebuilt a humanitarian mapping app for the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
-- Contributed to several [open source projects](https://github.com/localjo).
+- Contributed to several [open source projects](https://github.com/localjo) including NASA Worldview and Webpack.
 - Wrote [custom plugins for WordPress](https://wordpress.org/plugins/quotable/) and [Discourse](https://www.discourse.org/).
 
 ### Senior Software Engineer (Remote)
