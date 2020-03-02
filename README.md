@@ -11,7 +11,7 @@
 
 ## Core Skills
 
-JavaScript, TypeScript, React, Redux, Node.js, GraphQL, Webpack, Babel, Grunt, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, SEO, Marketing, Technical Writing, Public Speaking, Empathy, Leadership
+JavaScript, TypeScript, React, Redux, Node.js, GraphQL, Webpack, gulp, git, Docker, Bash, PHP, MySQL, HTML, CSS, Python, Ruby, UX/UI, Accessibility, Technical Writing, Public Speaking, English (Native), Spanish (Fluent), Hungarian (Conversational)
 
 ## Relevant Experience
 
